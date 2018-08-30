@@ -1,3 +1,6 @@
+> Vous cherchez un lance dés sérieux ?
+<br> [Dispo ici](https://github.com/jusdepatate/1d)
+
 # Dé Pa Pipé
 Projet perso a la con partit d'un delire sur discord
 
