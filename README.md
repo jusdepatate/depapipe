@@ -1,10 +1,8 @@
-> Vous cherchez un lance dés sérieux ?
-<br> [Dispo ici](https://github.com/jusdepatate/1d)
+> You want a serious dice roller ?
+<br> [Look at 1d](https://github.com/jusdepatate/1d)
 
 # Dé Pa Pipé
-Projet perso a la con partit d'un delire sur discord
-
-Il n'y a qu'a lire le javascript pour comprendre ;)
+Shit project created after a joke with friends.
 
 > Utilise PureCSS
 <br> Utilise Roboto Thin, offert par FontSquirrel
